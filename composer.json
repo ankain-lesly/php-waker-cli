@@ -1,0 +1,27 @@
+{
+  "name": "devlee/waker-cli",
+  "description": "A Quick and easy cli managing tool for php console application",
+  "type": "library",
+  "keywords": [
+    "php framework",
+    "orm",
+    "router"
+  ],
+  "autoload": {
+    "psr-4": {
+      "Devlee\\WakerCLI\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Ankain Lesly",
+      "email": "leeleslyank@gmail.com",
+      "role": "Project Founder",
+      "homepage": "https://www.letech-cg.com"
+    }
+  ],
+  "homepage": "",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "require": {}
+}
